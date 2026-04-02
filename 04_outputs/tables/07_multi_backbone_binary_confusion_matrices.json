@@ -1,0 +1,122 @@
+{
+  "xlm-roberta_ben_sarc_binary": [
+    [
+      976,
+      306
+    ],
+    [
+      306,
+      976
+    ]
+  ],
+  "xlm-roberta_banglasarc_binary": [
+    [
+      299,
+      17
+    ],
+    [
+      10,
+      186
+    ]
+  ],
+  "xlm-roberta_banglasarc3_binary": [
+    [
+      286,
+      115
+    ],
+    [
+      101,
+      300
+    ]
+  ],
+  "mbert_ben_sarc_binary": [
+    [
+      911,
+      371
+    ],
+    [
+      270,
+      1012
+    ]
+  ],
+  "mbert_banglasarc_binary": [
+    [
+      297,
+      19
+    ],
+    [
+      8,
+      188
+    ]
+  ],
+  "mbert_banglasarc3_binary": [
+    [
+      302,
+      99
+    ],
+    [
+      119,
+      282
+    ]
+  ],
+  "sagorsarker-bb_ben_sarc_binary": [
+    [
+      918,
+      364
+    ],
+    [
+      273,
+      1009
+    ]
+  ],
+  "sagorsarker-bb_banglasarc_binary": [
+    [
+      300,
+      16
+    ],
+    [
+      9,
+      187
+    ]
+  ],
+  "sagorsarker-bb_banglasarc3_binary": [
+    [
+      295,
+      106
+    ],
+    [
+      112,
+      289
+    ]
+  ],
+  "muril_ben_sarc_binary": [
+    [
+      1070,
+      212
+    ],
+    [
+      360,
+      922
+    ]
+  ],
+  "muril_banglasarc_binary": [
+    [
+      314,
+      2
+    ],
+    [
+      9,
+      187
+    ]
+  ],
+  "muril_banglasarc3_binary": [
+    [
+      288,
+      113
+    ],
+    [
+      99,
+      302
+    ]
+  ]
+}

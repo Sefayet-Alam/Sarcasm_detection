@@ -1,0 +1,13 @@
+model_tag,model_name,dataset,train_samples,epochs,batch_size,lr,max_length,time_seconds
+xlm-roberta,xlm-roberta-base,ben_sarc_binary,20508,3,8,2e-05,128,1880.8
+xlm-roberta,xlm-roberta-base,banglasarc_binary,4089,3,8,2e-05,128,399.3
+xlm-roberta,xlm-roberta-base,banglasarc3_binary,6413,3,8,2e-05,128,608.7
+mbert,bert-base-multilingual-cased,ben_sarc_binary,20508,3,8,2e-05,128,1430.6
+mbert,bert-base-multilingual-cased,banglasarc_binary,4089,3,8,2e-05,128,301.8
+mbert,bert-base-multilingual-cased,banglasarc3_binary,6413,3,8,2e-05,128,461.3
+sagorsarker-bb,sagorsarker/bangla-bert-base,ben_sarc_binary,20508,3,8,2e-05,128,1370.7
+sagorsarker-bb,sagorsarker/bangla-bert-base,banglasarc_binary,4089,3,8,2e-05,128,288.1
+sagorsarker-bb,sagorsarker/bangla-bert-base,banglasarc3_binary,6413,3,8,2e-05,128,441.2
+muril,google/muril-base-cased,ben_sarc_binary,20508,3,8,2e-05,128,1730.5
+muril,google/muril-base-cased,banglasarc_binary,4089,3,8,2e-05,128,369.9
+muril,google/muril-base-cased,banglasarc3_binary,6413,3,8,2e-05,128,558.3
