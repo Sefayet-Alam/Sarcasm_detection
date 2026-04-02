@@ -1,0 +1,6 @@
+model_tag,model_name,dataset,train_samples,epochs,batch_size,lr,max_length,class_weights,time_seconds
+banglabert,csebuetnlp/banglabert,banglasarc3_ternary,9657,3,8,2e-05,128,"[1.0037, 0.9923, 1.0041]",558.9
+muril,google/muril-base-cased,banglasarc3_ternary,9657,3,8,2e-05,128,"[1.0037, 0.9923, 1.0041]",802.4
+xlm-roberta,xlm-roberta-base,banglasarc3_ternary,9657,3,8,2e-05,128,"[1.0037, 0.9923, 1.0041]",860.8
+mbert,bert-base-multilingual-cased,banglasarc3_ternary,9657,3,8,2e-05,128,"[1.0037, 0.9923, 1.0041]",655.7
+sagorsarker-bb,sagorsarker/bangla-bert-base,banglasarc3_ternary,9657,3,8,2e-05,128,"[1.0037, 0.9923, 1.0041]",630.1
