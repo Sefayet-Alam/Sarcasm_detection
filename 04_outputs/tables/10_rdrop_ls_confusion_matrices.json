@@ -1,0 +1,143 @@
+{
+  "label_smoothing_ben_sarc_binary": [
+    [
+      989,
+      293
+    ],
+    [
+      229,
+      1053
+    ]
+  ],
+  "label_smoothing_banglasarc_binary": [
+    [
+      310,
+      6
+    ],
+    [
+      6,
+      190
+    ]
+  ],
+  "label_smoothing_banglasarc3_binary": [
+    [
+      291,
+      110
+    ],
+    [
+      95,
+      306
+    ]
+  ],
+  "label_smoothing_banglasarc3_ternary": [
+    [
+      227,
+      92,
+      82
+    ],
+    [
+      98,
+      263,
+      45
+    ],
+    [
+      76,
+      41,
+      284
+    ]
+  ],
+  "rdrop_ben_sarc_binary": [
+    [
+      1097,
+      185
+    ],
+    [
+      314,
+      968
+    ]
+  ],
+  "rdrop_banglasarc_binary": [
+    [
+      313,
+      3
+    ],
+    [
+      6,
+      190
+    ]
+  ],
+  "rdrop_banglasarc3_binary": [
+    [
+      298,
+      103
+    ],
+    [
+      107,
+      294
+    ]
+  ],
+  "rdrop_banglasarc3_ternary": [
+    [
+      216,
+      95,
+      90
+    ],
+    [
+      81,
+      275,
+      50
+    ],
+    [
+      61,
+      35,
+      305
+    ]
+  ],
+  "rdrop_plus_ls_ben_sarc_binary": [
+    [
+      1097,
+      185
+    ],
+    [
+      322,
+      960
+    ]
+  ],
+  "rdrop_plus_ls_banglasarc_binary": [
+    [
+      313,
+      3
+    ],
+    [
+      6,
+      190
+    ]
+  ],
+  "rdrop_plus_ls_banglasarc3_binary": [
+    [
+      299,
+      102
+    ],
+    [
+      104,
+      297
+    ]
+  ],
+  "rdrop_plus_ls_banglasarc3_ternary": [
+    [
+      209,
+      105,
+      87
+    ],
+    [
+      69,
+      289,
+      48
+    ],
+    [
+      65,
+      35,
+      301
+    ]
+  ]
+}

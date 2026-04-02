@@ -1,0 +1,13 @@
+technique,dataset,num_labels,ls,rdrop_alpha,train_samples,time_seconds
+label_smoothing,ben_sarc_binary,2,0.1,0.0,20508,1218.2
+label_smoothing,banglasarc_binary,2,0.1,0.0,4089,254.2
+label_smoothing,banglasarc3_binary,2,0.1,0.0,6413,391.3
+label_smoothing,banglasarc3_ternary,3,0.1,0.0,9657,585.0
+rdrop,ben_sarc_binary,2,0.0,5.0,20508,2254.5
+rdrop,banglasarc_binary,2,0.0,5.0,4089,459.4
+rdrop,banglasarc3_binary,2,0.0,5.0,6413,716.9
+rdrop,banglasarc3_ternary,3,0.0,5.0,9657,1067.8
+rdrop_plus_ls,ben_sarc_binary,2,0.1,5.0,20508,2254.3
+rdrop_plus_ls,banglasarc_binary,2,0.1,5.0,4089,459.6
+rdrop_plus_ls,banglasarc3_binary,2,0.1,5.0,6413,714.3
+rdrop_plus_ls,banglasarc3_ternary,3,0.1,5.0,9657,1069.5
