@@ -1,0 +1,9 @@
+technique,dataset,num_labels,supcon_weight,time_seconds
+supcon_joint,ben_sarc_binary,2,0.5,3727.0
+supcon_joint,banglasarc_binary,2,0.5,753.9
+supcon_joint,banglasarc3_binary,2,0.5,1176.0
+supcon_joint,banglasarc3_ternary,3,0.5,1762.6
+supcon_twostage,ben_sarc_binary,2,1.0,863.9
+supcon_twostage,banglasarc_binary,2,1.0,178.1
+supcon_twostage,banglasarc3_binary,2,1.0,275.6
+supcon_twostage,banglasarc3_ternary,3,1.0,411.4

@@ -1,0 +1,96 @@
+{
+  "supcon_joint_ben_sarc_binary": [
+    [
+      1000,
+      282
+    ],
+    [
+      224,
+      1058
+    ]
+  ],
+  "supcon_joint_banglasarc_binary": [
+    [
+      314,
+      2
+    ],
+    [
+      6,
+      190
+    ]
+  ],
+  "supcon_joint_banglasarc3_binary": [
+    [
+      301,
+      100
+    ],
+    [
+      92,
+      309
+    ]
+  ],
+  "supcon_joint_banglasarc3_ternary": [
+    [
+      221,
+      100,
+      80
+    ],
+    [
+      88,
+      281,
+      37
+    ],
+    [
+      73,
+      39,
+      289
+    ]
+  ],
+  "supcon_twostage_ben_sarc_binary": [
+    [
+      0,
+      1282
+    ],
+    [
+      0,
+      1282
+    ]
+  ],
+  "supcon_twostage_banglasarc_binary": [
+    [
+      313,
+      3
+    ],
+    [
+      6,
+      190
+    ]
+  ],
+  "supcon_twostage_banglasarc3_binary": [
+    [
+      294,
+      107
+    ],
+    [
+      110,
+      291
+    ]
+  ],
+  "supcon_twostage_banglasarc3_ternary": [
+    [
+      82,
+      192,
+      127
+    ],
+    [
+      37,
+      250,
+      119
+    ],
+    [
+      66,
+      143,
+      192
+    ]
+  ]
+}
