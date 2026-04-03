@@ -1,0 +1,10 @@
+run_id,technique,backbone,backbone_hf,param,dataset,task,test_macro_f1,test_weighted_f1,test_accuracy,val_macro_f1,time_seconds,num_labels
+bb_fgm_e03_banglasarc_binary,fgm,banglabert,csebuetnlp/banglabert,0.3,banglasarc,binary,0.9814,0.9824,0.9824,0.9896,720.2,2
+bb_fgm_e03_banglasarc3_binary,fgm,banglabert,csebuetnlp/banglabert,0.3,banglasarc3,binary,0.7531,0.7531,0.7531,0.7805,1135.0,2
+bb_fgm_e03_banglasarc3_ternary,fgm,banglabert,csebuetnlp/banglabert,0.3,banglasarc3,ternary,0.6618,0.662,0.6639,0.6795,1707.7,3
+bb_fgm_e03_ben_sarc_binary,fgm,banglabert,csebuetnlp/banglabert,0.3,ben_sarc,binary,0.8042,0.8042,0.8046,0.7955,3627.9,2
+bb_fgm_e05_banglasarc3_ternary,fgm,banglabert,csebuetnlp/banglabert,0.5,banglasarc3,ternary,0.6466,0.6466,0.649,0.6836,1713.0,3
+bb_fgm_e08_banglasarc_binary,fgm,banglabert,csebuetnlp/banglabert,0.8,banglasarc,binary,0.9855,0.9863,0.9863,0.9917,728.9,2
+bb_fgm_e08_banglasarc3_binary,fgm,banglabert,csebuetnlp/banglabert,0.8,banglasarc3,binary,0.7489,0.7489,0.7494,0.7727,1137.3,2
+bb_fgm_e08_banglasarc3_ternary,fgm,banglabert,csebuetnlp/banglabert,0.8,banglasarc3,ternary,0.6509,0.651,0.654,0.671,1705.2,3
+bb_fgm_e08_ben_sarc_binary,fgm,banglabert,csebuetnlp/banglabert,0.8,ben_sarc,binary,0.8115,0.8115,0.8116,0.796,3610.2,2

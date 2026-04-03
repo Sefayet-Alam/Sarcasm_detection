@@ -1,0 +1,15 @@
+{
+  "run_id": "bb_fgm_e08_ben_sarc_binary",
+  "technique": "fgm",
+  "backbone": "banglabert",
+  "backbone_hf": "csebuetnlp/banglabert",
+  "param": 0.8,
+  "dataset": "ben_sarc",
+  "task": "binary",
+  "test_macro_f1": 0.8115,
+  "test_weighted_f1": 0.8115,
+  "test_accuracy": 0.8116,
+  "val_macro_f1": 0.796,
+  "time_seconds": 3610.2,
+  "num_labels": 2
+}
