@@ -1,0 +1,13 @@
+{
+  "run_id": "bb_baseline_banglasarc__to__ben_sarc",
+  "technique": "bb_baseline",
+  "backbone": "csebuetnlp/banglabert",
+  "train_dataset": "banglasarc",
+  "test_dataset": "ben_sarc",
+  "task": "binary",
+  "test_macro_f1": 0.3437,
+  "test_weighted_f1": 0.3437,
+  "test_accuracy": 0.4899,
+  "val_macro_f1_on_train_ds": 0.9793,
+  "time_seconds": 417.8
+}

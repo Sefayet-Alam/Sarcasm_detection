@@ -1,0 +1,4 @@
+train_dataset,banglasarc,banglasarc3,ben_sarc
+banglasarc,0.9834,0.336,0.3437
+banglasarc3,0.6772,0.7666,0.6621
+ben_sarc,0.6664,0.6517,0.8018

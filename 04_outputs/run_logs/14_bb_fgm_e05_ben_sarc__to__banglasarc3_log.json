@@ -1,0 +1,13 @@
+{
+  "run_id": "bb_fgm_e05_ben_sarc__to__banglasarc3",
+  "technique": "bb_fgm_e05",
+  "backbone": "csebuetnlp/banglabert",
+  "train_dataset": "ben_sarc",
+  "test_dataset": "banglasarc3",
+  "task": "binary",
+  "test_macro_f1": 0.3333,
+  "test_weighted_f1": 0.3333,
+  "test_accuracy": 0.5,
+  "val_macro_f1_on_train_ds": 0.3333,
+  "time_seconds": 3700.9
+}
