@@ -1,0 +1,15 @@
+{
+  "run_id": "muril_fgm_e05_ben_sarc_binary",
+  "technique": "fgm",
+  "backbone": "muril",
+  "backbone_hf": "google/muril-base-cased",
+  "param": 0.5,
+  "dataset": "ben_sarc",
+  "task": "binary",
+  "test_macro_f1": 0.7889,
+  "test_weighted_f1": 0.7889,
+  "test_accuracy": 0.789,
+  "val_macro_f1": 0.7801,
+  "time_seconds": 15532.8,
+  "num_labels": 2
+}

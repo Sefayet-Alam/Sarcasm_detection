@@ -23,3 +23,4 @@ bb_fgmawp_ben_sarc_binary,fgm_awp,banglabert,csebuetnlp/banglabert,0.5,ben_sarc,
 muril_fgm_e05_banglasarc_binary,fgm,muril,google/muril-base-cased,0.5,banglasarc,binary,0.9731,0.9746,0.9746,0.9751,1089.3,2
 muril_fgm_e05_banglasarc3_binary,fgm,muril,google/muril-base-cased,0.5,banglasarc3,binary,0.7367,0.7367,0.7369,0.7715,1671.0,2
 muril_fgm_e05_banglasarc3_ternary,fgm,muril,google/muril-base-cased,0.5,banglasarc3,ternary,0.6142,0.6144,0.62,0.6348,2506.6,3
+muril_fgm_e05_ben_sarc_binary,fgm,muril,google/muril-base-cased,0.5,ben_sarc,binary,0.7889,0.7889,0.789,0.7801,15532.8,2
