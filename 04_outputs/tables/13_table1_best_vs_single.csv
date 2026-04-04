@@ -2,4 +2,4 @@ dataset_task,best_single_f1,best_single_model,best_ensemble_f1,best_ensemble,del
 banglasarc_binary,0.9896,bb_fgmawp / bb_fgm_e05 (nb06/12),0.9897,stacking / diverse,0.0001,YES
 banglasarc3_binary,0.788,bb_fgm_e05 (nb06),0.768,stacking / top_3,-0.02,NO
 banglasarc3_ternary,0.6618,bb_fgm_e03 (nb12),0.6664,hard_vote / all,0.0046,YES
-ben_sarc_binary,0.8126,bb_fgmawp (nb12),0.8186,soft_vote / all,0.006,YES
+ben_sarc_binary,0.8126,bb_fgmawp (nb12),0.8179,hard_vote / all,0.0053,YES

@@ -1,4 +1,4 @@
 ensemble_method,mean_mf1,max_mf1,min_mf1,n_runs
-stacking,0.8037,0.9897,0.6431,16
-hard_vote,0.7982,0.9855,0.6347,16
-soft_vote,0.7976,0.9855,0.6362,16
+stacking,0.8039,0.9897,0.6431,16
+hard_vote,0.7983,0.9855,0.6347,16
+soft_vote,0.7974,0.9855,0.6362,16
