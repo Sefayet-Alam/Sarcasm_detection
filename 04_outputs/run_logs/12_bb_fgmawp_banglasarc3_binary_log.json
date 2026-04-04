@@ -1,0 +1,15 @@
+{
+  "run_id": "bb_fgmawp_banglasarc3_binary",
+  "technique": "fgm_awp",
+  "backbone": "banglabert",
+  "backbone_hf": "csebuetnlp/banglabert",
+  "param": 0.5,
+  "dataset": "banglasarc3",
+  "task": "binary",
+  "test_macro_f1": 0.7455,
+  "test_weighted_f1": 0.7455,
+  "test_accuracy": 0.7456,
+  "val_macro_f1": 0.7867,
+  "time_seconds": 1245.6,
+  "num_labels": 2
+}

@@ -1,0 +1,15 @@
+{
+  "run_id": "bb_freelb_k3_banglasarc_binary",
+  "technique": "freelb",
+  "backbone": "banglabert",
+  "backbone_hf": "csebuetnlp/banglabert",
+  "param": 3,
+  "dataset": "banglasarc",
+  "task": "binary",
+  "test_macro_f1": 0.9855,
+  "test_weighted_f1": 0.9863,
+  "test_accuracy": 0.9863,
+  "val_macro_f1": 0.9834,
+  "time_seconds": 1071.8,
+  "num_labels": 2
+}

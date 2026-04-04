@@ -1,0 +1,15 @@
+{
+  "run_id": "muril_fgm_e05_banglasarc3_ternary",
+  "technique": "fgm",
+  "backbone": "muril",
+  "backbone_hf": "google/muril-base-cased",
+  "param": 0.5,
+  "dataset": "banglasarc3",
+  "task": "ternary",
+  "test_macro_f1": 0.6142,
+  "test_weighted_f1": 0.6144,
+  "test_accuracy": 0.62,
+  "val_macro_f1": 0.6348,
+  "time_seconds": 2506.6,
+  "num_labels": 3
+}
