@@ -1,0 +1,17 @@
+method,mean_macro_f1
+BanglaBERT+FGM eps=0.5 (nb06),0.8599
+BanglaBERT baseline (nb05),0.8506
+MuRIL (nb07),0.8296
+XLM-RoBERTa (nb07),0.8122
+Sagorsarker BB (nb07),0.8094
+mBERT (nb07),0.8075
+stacking best ensemble (nb13),0.8037
+BanglaBERT+FGM best-eps (nb12),0.803
+SupCon Joint (nb11),0.8001
+BanglaBERT+FGM+AWP (nb12),0.799
+hard_vote best ensemble (nb13),0.7982
+soft_vote best ensemble (nb13),0.7976
+BanglaBERT+FreeLB K=3 (nb12),0.7962
+R-Drop+LS (nb10),0.796
+MuRIL+FGM eps=0.5 (nb12),0.7782
+TF-IDF + Logistic Regression (nb04),0.7386
